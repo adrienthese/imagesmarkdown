@@ -1,0 +1,23 @@
+# Eclipse
+.metadata/
+.recommenders/
+.settings/
+.project
+.cproject
+
+# Build / compilation
+Debug/
+Release/
+build/
+out/
+bin/
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+
+# OS
+.DS_Store
+Thumbs.db

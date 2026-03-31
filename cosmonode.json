@@ -1,0 +1,10 @@
+{
+    "timeout": 10000,
+    "calendar": {
+        "file": "calendar.home.txt"
+    },
+    "data": {
+        "format": 0,
+        "frame": 0
+    }
+}
